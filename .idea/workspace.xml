@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d7df770-fee2-4dcf-9a9f-4cc000e09c0c" name="Changes" comment="new project">
+    <list default="true" id="9d7df770-fee2-4dcf-9a9f-4cc000e09c0c" name="Changes" comment="added subfinder and subdominator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BugPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/BugPy.py" afterDir="false" />
     </list>
@@ -93,11 +93,39 @@
       <option name="project" value="LOCAL" />
       <updated>1735963230623</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added subfinder and subdominator">
+      <option name="closed" value="true" />
+      <created>1735965428743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735965428743</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added subfinder and subdominator">
+      <option name="closed" value="true" />
+      <created>1735965495687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735965495687</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project" />
+    <MESSAGE value="added subfinder and subdominator" />
+    <option name="LAST_COMMIT_MESSAGE" value="added subfinder and subdominator" />
   </component>
 </project>
